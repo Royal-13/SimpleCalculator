@@ -1,3 +1,3 @@
 # SimpleCalculator
-  A calculator in HTML, CSS and JavaScript
+  A calculator in HTML, CSS and JavaScript.
   
